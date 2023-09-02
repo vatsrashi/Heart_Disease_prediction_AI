@@ -41,4 +41,4 @@ boosting on decision tree.
 3. Random Forest- Random Forest is a popular machine learning algorithm that belongs to 
 the supervised learning technique. It can be used for both Classification and Regression 
 problems in ML. It is based on the concept of ensemble learning.
-![Uploading image.png…]()
+
