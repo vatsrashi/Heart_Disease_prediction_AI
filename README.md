@@ -33,9 +33,12 @@ disease detection.
 Algorithms used: 
 1.KNN- It is a non-parametric, supervised learning classifier, which uses proximity to make 
 classifications or predictions about the grouping of an individual data point.
+
+
 2. Decision trees- Decision Tree is a Supervised learning technique that can be used for both 
 classification and Regression problems. We used Cat Boost-It is an algorithm for gradient 
 boosting on decision tree.
 3. Random Forest- Random Forest is a popular machine learning algorithm that belongs to 
 the supervised learning technique. It can be used for both Classification and Regression 
 problems in ML. It is based on the concept of ensemble learning.
+![Uploading image.png…]()
